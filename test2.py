@@ -1,2 +1,2 @@
-# I A O
+# A O
 # mason was here
